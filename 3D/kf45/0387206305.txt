@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-04042024-068466";"";
+"REFERENCE";"387206305";"";
+"TraceParts.PartTitle";"Fixed Mount Barrier";"";
+"TraceParts.InstanceId";"90-04042024-0684662N3XX9WWY2MK673V115V3T3RA";"";
+"SUPPLIER";"Molex";"";
+"DESIGN";"9.53mm Pitch Beau PCB Terminal Strip, without Mounting Ends, 5 Circuits";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.8";"";
